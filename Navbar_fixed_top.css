@@ -1,0 +1,14 @@
+.navbar {
+   opacity: 0.9; 
+    -moz-opacity: 0.9; 
+    -webkit-opacity: 0.9; 
+    padding: 20px;
+}
+
+.navbar li { 
+    font-size: 22px;
+} 
+
+.navbar-brand {
+    font-size: 30px;
+}

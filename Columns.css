@@ -1,0 +1,7 @@
+.yearHR {
+display: inline-block;
+}
+
+hr .featurette-divider {
+width: 300px;
+}
